@@ -12,8 +12,6 @@ $logFile = ".\PasswordExpiry-$ct.csv" # ie. c:\mylog.csv
 $testing = "Disabled" # Set to Disabled to Email Users
 $testRecipient = "infrastructure@bergerbd.com"
 
-
-#
 ###################################################################################################################
 
 # Check Logging Settings
